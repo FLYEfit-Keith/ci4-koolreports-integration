@@ -1,0 +1,10 @@
+{
+	"repositories":[
+    	{"type":"composer","url":"https://repo.koolreport.com"}
+	],
+    "require": {
+		"php": "^7.4||^8.0",
+		"codeigniter4/framework": "^4",
+        "koolreport/pro":"*"
+    }
+}
